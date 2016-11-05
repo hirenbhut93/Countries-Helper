@@ -7,9 +7,9 @@ class Countries
 	{
 	    return [
 	    	"Afghanistan",
-			"Albania",
-			"Algeria",
-			"American Samoa",
+		"Albania",
+		"Algeria",
+		"American Samoa",
 			"Andorra",
 			"Angola",
 			"Anguilla",
