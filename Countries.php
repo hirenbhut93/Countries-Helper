@@ -242,7 +242,6 @@ class Countries
 		"Wallis and Futuna Islands",
 		"Western Sahara",
 		"Yemen",
-		"Yugoslavia",
 		"Zambia",
 		"Zimbabwe"
 		];
